@@ -2,33 +2,37 @@
 
 <!-- Code Span -->
 
-`Hello world`
+`Code Span`
 
 <!-- Code block -->
 
 ```
-Hello Welcome
+Code Block
 ```
 
 <!-- Paragraph -->
 
 <!-- Heading -->
 
-# Welcome
+# Heading 1
 
-## Welcome
+## Heading 2
 
-### Welcome back
+### Heading 3
 
-#### Welcome
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
 
 <!-- Blockquotes -->
 
-> Hello world
+> Blockquote
 
 <!-- Paragraph in Blockquotes -->
 
-> Blockquotes 1
+> Blockquotes with paragraph
 >
 > Blockquotes 2
 
@@ -44,7 +48,7 @@ Hello Welcome
 
 **Bold**
 
-I**am**Sd
+Iama**bold**text
 
 <!-- Italic -->
 
@@ -53,13 +57,14 @@ _Italic_
 
 <!-- Bold and Italic Text -->
 
-**_Syntactic_**
-**_Syntactic_**
+**_Bold and Italic_**
+
+**_Bold and Italic_** (Not Advisable)
 
 <!-- List -->
 
-- Javascript
-- React
+- List one
+- List Two
 
 <!-- Pipe Table -->
 
@@ -78,6 +83,8 @@ _Italic_
 
 <!-- Display Code In Appropriate Form -->
 
+CODE DISPLAY
+
 ```csharp
 
   for(let i = 0; i < 10; i++){
@@ -87,5 +94,7 @@ _Italic_
 ```
 
 <!-- Maths Expression -->
+
+Math Expression
 
 $$ (2x-y^2) \over (x-y) \Huge W $$
